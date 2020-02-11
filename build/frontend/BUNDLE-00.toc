@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/apple/Desktop/project/databaseApp/dist/frontend',
+   'EXECUTABLE')],)
